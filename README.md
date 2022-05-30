@@ -62,7 +62,8 @@ Skills
 - [pygame] 더 져니 <a href="https://github.com/jibminJung/2021-2-OSSProj-PlusAlpha-9"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   - 파이썬으로 만든 1인용 슈팅 게임
   - 스테이지 단계 제작, 보스 몹 제작
-  - [상세](https://github.com/jibminJung/2021-2-OSSProj-PlusAlpha-9/blob/main/README.md)
+  - [상세1](https://dongguk0-my.sharepoint.com/:b:/g/personal/wlqals1_dongguk_edu/Eespn6H36CZFq-UWjYxcKRcBl05ZSC4Fv4JevPeVhYgKzw?e=Py0MzZ)
+  - [상세2](https://github.com/jibminJung/2021-2-OSSProj-PlusAlpha-9/blob/main/README.md)
 - [아두이노] 창문 자동화 시스템 <a href="https://github.com/jibminJung/ArduinoProject-AutoWindow"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   - 미세먼지 환경에 따라 자동으로 창문을 개폐하는 IoT 장치
   - [상세](https://github.com/jibminJung/ArduinoProject-AutoWindow/blob/main/README.md)
