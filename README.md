@@ -46,6 +46,10 @@ Skills
 
 프로젝트
 ----
+- [안드로이드] 건너볼래<a href="https://github.com/gojungparkjo/geonneobolrae"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  - 시각장애인을 위한 GPS 기반 횡단보도 안내 어플리케이션
+  - 횡단보도 방향 계산 알고리즘 개발, 코루틴을 이용한 동시 작업
+  - Kotlin, Coroutine, GPS, Compass, T Map API, Naver Map API
 - [안드로이드] 동식이
 <a href="https://play.google.com/store/apps/details?id=com.jimmy.dongsik"><img src="https://img.shields.io/badge/play-0D96F6?style=for-the-badge&logo=GooglePlay&logoColor=white"/></a>
 <a href="https://github.com/jibminJung/Dongsik"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
